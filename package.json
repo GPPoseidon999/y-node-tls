@@ -1,0 +1,12 @@
+{
+  "name": "y-node-tls",
+  "version": "1.0.0",
+  "description": "Node LTS版本查看工具",
+  "main": "index.js",
+  "keywords": ["Node TLS"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GPPoseidon999",
+  "license": "ISC"
+}
