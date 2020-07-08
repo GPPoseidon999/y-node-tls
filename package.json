@@ -1,6 +1,6 @@
 {
     "name": "y-node-lts",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Node LTS版本查看工具",
     "main": "index.js",
     "directories": {
