@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/GPPoseidon999/y-node-tls#readme",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "cli-color": "^2.0.0",
         "cli-table": "^0.3.1",
         "compare-versions": "^3.6.0",
